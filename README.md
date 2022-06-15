@@ -29,4 +29,3 @@ web-meeting
 2. 全局组件: *Gcomponent
 
 3. 非全局组件: *component
-
