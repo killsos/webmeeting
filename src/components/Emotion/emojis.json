@@ -1,0 +1,3333 @@
+{
+  "data": [
+    {
+      "n": ["grinning face", "grinning"],
+      "u": "1f600"
+    },
+    {
+      "n": ["grinning face with smiling eyes", "grin"],
+      "u": "1f601"
+    },
+    {
+      "n": ["face with tears of joy", "joy"],
+      "u": "1f602"
+    },
+    {
+      "n": ["rolling on the floor laughing", "rolling_on_the_floor_laughing"],
+      "u": "1f923"
+    },
+    {
+      "n": ["smiling face with open mouth", "smiley"],
+      "u": "1f603"
+    },
+    {
+      "n": ["smiling face with open mouth and smiling eyes", "smile"],
+      "u": "1f604"
+    },
+    {
+      "n": ["smiling face with open mouth and cold sweat", "sweat_smile"],
+      "u": "1f605"
+    },
+    {
+      "n": [
+        "smiling face with open mouth and tightly-closed eyes",
+        "laughing",
+        "satisfied"
+      ],
+      "u": "1f606"
+    },
+    {
+      "n": ["winking face", "wink"],
+      "u": "1f609"
+    },
+    {
+      "n": ["smiling face with smiling eyes", "blush"],
+      "u": "1f60a"
+    },
+    {
+      "n": ["face savouring delicious food", "yum"],
+      "u": "1f60b"
+    },
+    {
+      "n": ["smiling face with sunglasses", "sunglasses"],
+      "u": "1f60e"
+    },
+    {
+      "n": ["smiling face with heart-shaped eyes", "heart_eyes"],
+      "u": "1f60d"
+    },
+    {
+      "n": ["face throwing a kiss", "kissing_heart"],
+      "u": "1f618"
+    },
+    {
+      "n": ["kissing face", "kissing"],
+      "u": "1f617"
+    },
+    {
+      "n": ["kissing face with smiling eyes", "kissing_smiling_eyes"],
+      "u": "1f619"
+    },
+    {
+      "n": ["kissing face with closed eyes", "kissing_closed_eyes"],
+      "u": "1f61a"
+    },
+    {
+      "n": ["white smiling face", "relaxed"],
+      "u": "263a-fe0f"
+    },
+    {
+      "n": ["slightly smiling face", "slightly_smiling_face"],
+      "u": "1f642"
+    },
+    {
+      "n": ["hugging face", "hugging_face"],
+      "u": "1f917"
+    },
+    {
+      "n": [
+        "grinning face with star eyes",
+        "star-struck",
+        "grinning_face_with_star_eyes"
+      ],
+      "u": "1f929"
+    },
+    {
+      "n": ["thinking face", "thinking_face"],
+      "u": "1f914"
+    },
+    {
+      "n": [
+        "face with one eyebrow raised",
+        "face_with_raised_eyebrow",
+        "face_with_one_eyebrow_raised"
+      ],
+      "u": "1f928"
+    },
+    {
+      "n": ["neutral face", "neutral_face"],
+      "u": "1f610"
+    },
+    {
+      "n": ["expressionless face", "expressionless"],
+      "u": "1f611"
+    },
+    {
+      "n": ["face without mouth", "no_mouth"],
+      "u": "1f636"
+    },
+    {
+      "n": ["face with rolling eyes", "face_with_rolling_eyes"],
+      "u": "1f644"
+    },
+    {
+      "n": ["smirking face", "smirk"],
+      "u": "1f60f"
+    },
+    {
+      "n": ["persevering face", "persevere"],
+      "u": "1f623"
+    },
+    {
+      "n": ["disappointed but relieved face", "disappointed_relieved"],
+      "u": "1f625"
+    },
+    {
+      "n": ["face with open mouth", "open_mouth"],
+      "u": "1f62e"
+    },
+    {
+      "n": ["zipper-mouth face", "zipper_mouth_face"],
+      "u": "1f910"
+    },
+    {
+      "n": ["hushed face", "hushed"],
+      "u": "1f62f"
+    },
+    {
+      "n": ["sleepy face", "sleepy"],
+      "u": "1f62a"
+    },
+    {
+      "n": ["tired face", "tired_face"],
+      "u": "1f62b"
+    },
+    {
+      "n": ["sleeping face", "sleeping"],
+      "u": "1f634"
+    },
+    {
+      "n": ["relieved face", "relieved"],
+      "u": "1f60c"
+    },
+    {
+      "n": ["face with stuck-out tongue", "stuck_out_tongue"],
+      "u": "1f61b"
+    },
+    {
+      "n": [
+        "face with stuck-out tongue and winking eye",
+        "stuck_out_tongue_winking_eye"
+      ],
+      "u": "1f61c"
+    },
+    {
+      "n": [
+        "face with stuck-out tongue and tightly-closed eyes",
+        "stuck_out_tongue_closed_eyes"
+      ],
+      "u": "1f61d"
+    },
+    {
+      "n": ["drooling face", "drooling_face"],
+      "u": "1f924"
+    },
+    {
+      "n": ["unamused face", "unamused"],
+      "u": "1f612"
+    },
+    {
+      "n": ["face with cold sweat", "sweat"],
+      "u": "1f613"
+    },
+    {
+      "n": ["pensive face", "pensive"],
+      "u": "1f614"
+    },
+    {
+      "n": ["confused face", "confused"],
+      "u": "1f615"
+    },
+    {
+      "n": ["upside-down face", "upside_down_face"],
+      "u": "1f643"
+    },
+    {
+      "n": ["money-mouth face", "money_mouth_face"],
+      "u": "1f911"
+    },
+    {
+      "n": ["astonished face", "astonished"],
+      "u": "1f632"
+    },
+    {
+      "n": ["white_frowning_face"],
+      "u": "2639-fe0f"
+    },
+    {
+      "n": ["slightly frowning face", "slightly_frowning_face"],
+      "u": "1f641"
+    },
+    {
+      "n": ["confounded face", "confounded"],
+      "u": "1f616"
+    },
+    {
+      "n": ["disappointed face", "disappointed"],
+      "u": "1f61e"
+    },
+    {
+      "n": ["worried face", "worried"],
+      "u": "1f61f"
+    },
+    {
+      "n": ["face with look of triumph", "triumph"],
+      "u": "1f624"
+    },
+    {
+      "n": ["crying face", "cry"],
+      "u": "1f622"
+    },
+    {
+      "n": ["loudly crying face", "sob"],
+      "u": "1f62d"
+    },
+    {
+      "n": ["frowning face with open mouth", "frowning"],
+      "u": "1f626"
+    },
+    {
+      "n": ["anguished face", "anguished"],
+      "u": "1f627"
+    },
+    {
+      "n": ["fearful face", "fearful"],
+      "u": "1f628"
+    },
+    {
+      "n": ["weary face", "weary"],
+      "u": "1f629"
+    },
+    {
+      "n": [
+        "shocked face with exploding head",
+        "exploding_head",
+        "shocked_face_with_exploding_head"
+      ],
+      "u": "1f92f"
+    },
+    {
+      "n": ["grimacing face", "grimacing"],
+      "u": "1f62c"
+    },
+    {
+      "n": ["face with open mouth and cold sweat", "cold_sweat"],
+      "u": "1f630"
+    },
+    {
+      "n": ["face screaming in fear", "scream"],
+      "u": "1f631"
+    },
+    {
+      "n": ["flushed face", "flushed"],
+      "u": "1f633"
+    },
+    {
+      "n": [
+        "grinning face with one large and one small eye",
+        "zany_face",
+        "grinning_face_with_one_large_and_one_small_eye"
+      ],
+      "u": "1f92a"
+    },
+    {
+      "n": ["dizzy face", "dizzy_face"],
+      "u": "1f635"
+    },
+    {
+      "n": ["pouting face", "rage"],
+      "u": "1f621"
+    },
+    {
+      "n": ["angry face", "angry"],
+      "u": "1f620"
+    },
+    {
+      "n": [
+        "serious face with symbols covering mouth",
+        "face_with_symbols_on_mouth",
+        "serious_face_with_symbols_covering_mouth"
+      ],
+      "u": "1f92c"
+    },
+    {
+      "n": ["face with medical mask", "mask"],
+      "u": "1f637"
+    },
+    {
+      "n": ["face with thermometer", "face_with_thermometer"],
+      "u": "1f912"
+    },
+    {
+      "n": ["face with head-bandage", "face_with_head_bandage"],
+      "u": "1f915"
+    },
+    {
+      "n": ["nauseated face", "nauseated_face"],
+      "u": "1f922"
+    },
+    {
+      "n": [
+        "face with open mouth vomiting",
+        "face_vomiting",
+        "face_with_open_mouth_vomiting"
+      ],
+      "u": "1f92e"
+    },
+    {
+      "n": ["sneezing face", "sneezing_face"],
+      "u": "1f927"
+    },
+    {
+      "n": ["smiling face with halo", "innocent"],
+      "u": "1f607"
+    },
+    {
+      "n": ["face with cowboy hat", "face_with_cowboy_hat"],
+      "u": "1f920"
+    },
+    {
+      "n": ["clown face", "clown_face"],
+      "u": "1f921"
+    },
+    {
+      "n": ["lying face", "lying_face"],
+      "u": "1f925"
+    },
+    {
+      "n": [
+        "face with finger covering closed lips",
+        "shushing_face",
+        "face_with_finger_covering_closed_lips"
+      ],
+      "u": "1f92b"
+    },
+    {
+      "n": [
+        "smiling face with smiling eyes and hand covering mouth",
+        "face_with_hand_over_mouth",
+        "smiling_face_with_smiling_eyes_and_hand_covering_mouth"
+      ],
+      "u": "1f92d"
+    },
+    {
+      "n": ["face with monocle", "face_with_monocle"],
+      "u": "1f9d0"
+    },
+    {
+      "n": ["nerd face", "nerd_face"],
+      "u": "1f913"
+    },
+    {
+      "n": ["smiling face with horns", "smiling_imp"],
+      "u": "1f608"
+    },
+    {
+      "n": ["imp"],
+      "u": "1f47f"
+    },
+    {
+      "n": ["japanese ogre", "japanese_ogre"],
+      "u": "1f479"
+    },
+    {
+      "n": ["japanese goblin", "japanese_goblin"],
+      "u": "1f47a"
+    },
+    {
+      "n": ["skull"],
+      "u": "1f480"
+    },
+    {
+      "n": ["skull_and_crossbones"],
+      "u": "2620-fe0f"
+    },
+    {
+      "n": ["ghost"],
+      "u": "1f47b"
+    },
+    {
+      "n": ["extraterrestrial alien", "alien"],
+      "u": "1f47d"
+    },
+    {
+      "n": ["alien monster", "space_invader"],
+      "u": "1f47e"
+    },
+    {
+      "n": ["robot face", "robot_face"],
+      "u": "1f916"
+    },
+    {
+      "n": ["pile of poo", "hankey", "poop", "shit"],
+      "u": "1f4a9"
+    },
+    {
+      "n": ["smiling cat face with open mouth", "smiley_cat"],
+      "u": "1f63a"
+    },
+    {
+      "n": ["grinning cat face with smiling eyes", "smile_cat"],
+      "u": "1f638"
+    },
+    {
+      "n": ["cat face with tears of joy", "joy_cat"],
+      "u": "1f639"
+    },
+    {
+      "n": ["smiling cat face with heart-shaped eyes", "heart_eyes_cat"],
+      "u": "1f63b"
+    },
+    {
+      "n": ["cat face with wry smile", "smirk_cat"],
+      "u": "1f63c"
+    },
+    {
+      "n": ["kissing cat face with closed eyes", "kissing_cat"],
+      "u": "1f63d"
+    },
+    {
+      "n": ["weary cat face", "scream_cat"],
+      "u": "1f640"
+    },
+    {
+      "n": ["crying cat face", "crying_cat_face"],
+      "u": "1f63f"
+    },
+    {
+      "n": ["pouting cat face", "pouting_cat"],
+      "u": "1f63e"
+    },
+    {
+      "n": ["see-no-evil monkey", "see_no_evil"],
+      "u": "1f648"
+    },
+    {
+      "n": ["hear-no-evil monkey", "hear_no_evil"],
+      "u": "1f649"
+    },
+    {
+      "n": ["speak-no-evil monkey", "speak_no_evil"],
+      "u": "1f64a"
+    },
+    {
+      "n": ["baby"],
+      "u": "1f476",
+      "v": [
+        "1f476-1f3fb",
+        "1f476-1f3fc",
+        "1f476-1f3fd",
+        "1f476-1f3fe",
+        "1f476-1f3ff"
+      ]
+    },
+    {
+      "n": ["child"],
+      "u": "1f9d2",
+      "v": [
+        "1f9d2-1f3fb",
+        "1f9d2-1f3fc",
+        "1f9d2-1f3fd",
+        "1f9d2-1f3fe",
+        "1f9d2-1f3ff"
+      ]
+    },
+    {
+      "n": ["boy"],
+      "u": "1f466",
+      "v": [
+        "1f466-1f3fb",
+        "1f466-1f3fc",
+        "1f466-1f3fd",
+        "1f466-1f3fe",
+        "1f466-1f3ff"
+      ]
+    },
+    {
+      "n": ["girl"],
+      "u": "1f467",
+      "v": [
+        "1f467-1f3fb",
+        "1f467-1f3fc",
+        "1f467-1f3fd",
+        "1f467-1f3fe",
+        "1f467-1f3ff"
+      ]
+    },
+    {
+      "n": ["adult"],
+      "u": "1f9d1",
+      "v": [
+        "1f9d1-1f3fb",
+        "1f9d1-1f3fc",
+        "1f9d1-1f3fd",
+        "1f9d1-1f3fe",
+        "1f9d1-1f3ff"
+      ]
+    },
+    {
+      "n": ["man"],
+      "u": "1f468",
+      "v": [
+        "1f468-1f3fb",
+        "1f468-1f3fc",
+        "1f468-1f3fd",
+        "1f468-1f3fe",
+        "1f468-1f3ff"
+      ]
+    },
+    {
+      "n": ["woman"],
+      "u": "1f469",
+      "v": [
+        "1f469-1f3fb",
+        "1f469-1f3fc",
+        "1f469-1f3fd",
+        "1f469-1f3fe",
+        "1f469-1f3ff"
+      ]
+    },
+    {
+      "n": ["older adult", "older_adult"],
+      "u": "1f9d3",
+      "v": [
+        "1f9d3-1f3fb",
+        "1f9d3-1f3fc",
+        "1f9d3-1f3fd",
+        "1f9d3-1f3fe",
+        "1f9d3-1f3ff"
+      ]
+    },
+    {
+      "n": ["older man", "older_man"],
+      "u": "1f474",
+      "v": [
+        "1f474-1f3fb",
+        "1f474-1f3fc",
+        "1f474-1f3fd",
+        "1f474-1f3fe",
+        "1f474-1f3ff"
+      ]
+    },
+    {
+      "n": ["older woman", "older_woman"],
+      "u": "1f475",
+      "v": [
+        "1f475-1f3fb",
+        "1f475-1f3fc",
+        "1f475-1f3fd",
+        "1f475-1f3fe",
+        "1f475-1f3ff"
+      ]
+    },
+    {
+      "n": ["male-doctor"],
+      "u": "1f468-200d-2695-fe0f",
+      "v": [
+        "1f468-1f3fb-200d-2695-fe0f",
+        "1f468-1f3fc-200d-2695-fe0f",
+        "1f468-1f3fd-200d-2695-fe0f",
+        "1f468-1f3fe-200d-2695-fe0f",
+        "1f468-1f3ff-200d-2695-fe0f"
+      ]
+    },
+    {
+      "n": ["female-doctor"],
+      "u": "1f469-200d-2695-fe0f",
+      "v": [
+        "1f469-1f3fb-200d-2695-fe0f",
+        "1f469-1f3fc-200d-2695-fe0f",
+        "1f469-1f3fd-200d-2695-fe0f",
+        "1f469-1f3fe-200d-2695-fe0f",
+        "1f469-1f3ff-200d-2695-fe0f"
+      ]
+    },
+    {
+      "n": ["male-student"],
+      "u": "1f468-200d-1f393",
+      "v": [
+        "1f468-1f3fb-200d-1f393",
+        "1f468-1f3fc-200d-1f393",
+        "1f468-1f3fd-200d-1f393",
+        "1f468-1f3fe-200d-1f393",
+        "1f468-1f3ff-200d-1f393"
+      ]
+    },
+    {
+      "n": ["female-student"],
+      "u": "1f469-200d-1f393",
+      "v": [
+        "1f469-1f3fb-200d-1f393",
+        "1f469-1f3fc-200d-1f393",
+        "1f469-1f3fd-200d-1f393",
+        "1f469-1f3fe-200d-1f393",
+        "1f469-1f3ff-200d-1f393"
+      ]
+    },
+    {
+      "n": ["male-teacher"],
+      "u": "1f468-200d-1f3eb",
+      "v": [
+        "1f468-1f3fb-200d-1f3eb",
+        "1f468-1f3fc-200d-1f3eb",
+        "1f468-1f3fd-200d-1f3eb",
+        "1f468-1f3fe-200d-1f3eb",
+        "1f468-1f3ff-200d-1f3eb"
+      ]
+    },
+    {
+      "n": ["female-teacher"],
+      "u": "1f469-200d-1f3eb",
+      "v": [
+        "1f469-1f3fb-200d-1f3eb",
+        "1f469-1f3fc-200d-1f3eb",
+        "1f469-1f3fd-200d-1f3eb",
+        "1f469-1f3fe-200d-1f3eb",
+        "1f469-1f3ff-200d-1f3eb"
+      ]
+    },
+    {
+      "n": ["male-judge"],
+      "u": "1f468-200d-2696-fe0f",
+      "v": [
+        "1f468-1f3fb-200d-2696-fe0f",
+        "1f468-1f3fc-200d-2696-fe0f",
+        "1f468-1f3fd-200d-2696-fe0f",
+        "1f468-1f3fe-200d-2696-fe0f",
+        "1f468-1f3ff-200d-2696-fe0f"
+      ]
+    },
+    {
+      "n": ["female-judge"],
+      "u": "1f469-200d-2696-fe0f",
+      "v": [
+        "1f469-1f3fb-200d-2696-fe0f",
+        "1f469-1f3fc-200d-2696-fe0f",
+        "1f469-1f3fd-200d-2696-fe0f",
+        "1f469-1f3fe-200d-2696-fe0f",
+        "1f469-1f3ff-200d-2696-fe0f"
+      ]
+    },
+    {
+      "n": ["male-farmer"],
+      "u": "1f468-200d-1f33e",
+      "v": [
+        "1f468-1f3fb-200d-1f33e",
+        "1f468-1f3fc-200d-1f33e",
+        "1f468-1f3fd-200d-1f33e",
+        "1f468-1f3fe-200d-1f33e",
+        "1f468-1f3ff-200d-1f33e"
+      ]
+    },
+    {
+      "n": ["female-farmer"],
+      "u": "1f469-200d-1f33e",
+      "v": [
+        "1f469-1f3fb-200d-1f33e",
+        "1f469-1f3fc-200d-1f33e",
+        "1f469-1f3fd-200d-1f33e",
+        "1f469-1f3fe-200d-1f33e",
+        "1f469-1f3ff-200d-1f33e"
+      ]
+    },
+    {
+      "n": ["male-cook"],
+      "u": "1f468-200d-1f373",
+      "v": [
+        "1f468-1f3fb-200d-1f373",
+        "1f468-1f3fc-200d-1f373",
+        "1f468-1f3fd-200d-1f373",
+        "1f468-1f3fe-200d-1f373",
+        "1f468-1f3ff-200d-1f373"
+      ]
+    },
+    {
+      "n": ["female-cook"],
+      "u": "1f469-200d-1f373",
+      "v": [
+        "1f469-1f3fb-200d-1f373",
+        "1f469-1f3fc-200d-1f373",
+        "1f469-1f3fd-200d-1f373",
+        "1f469-1f3fe-200d-1f373",
+        "1f469-1f3ff-200d-1f373"
+      ]
+    },
+    {
+      "n": ["male-mechanic"],
+      "u": "1f468-200d-1f527",
+      "v": [
+        "1f468-1f3fb-200d-1f527",
+        "1f468-1f3fc-200d-1f527",
+        "1f468-1f3fd-200d-1f527",
+        "1f468-1f3fe-200d-1f527",
+        "1f468-1f3ff-200d-1f527"
+      ]
+    },
+    {
+      "n": ["female-mechanic"],
+      "u": "1f469-200d-1f527",
+      "v": [
+        "1f469-1f3fb-200d-1f527",
+        "1f469-1f3fc-200d-1f527",
+        "1f469-1f3fd-200d-1f527",
+        "1f469-1f3fe-200d-1f527",
+        "1f469-1f3ff-200d-1f527"
+      ]
+    },
+    {
+      "n": ["male-factory-worker"],
+      "u": "1f468-200d-1f3ed",
+      "v": [
+        "1f468-1f3fb-200d-1f3ed",
+        "1f468-1f3fc-200d-1f3ed",
+        "1f468-1f3fd-200d-1f3ed",
+        "1f468-1f3fe-200d-1f3ed",
+        "1f468-1f3ff-200d-1f3ed"
+      ]
+    },
+    {
+      "n": ["female-factory-worker"],
+      "u": "1f469-200d-1f3ed",
+      "v": [
+        "1f469-1f3fb-200d-1f3ed",
+        "1f469-1f3fc-200d-1f3ed",
+        "1f469-1f3fd-200d-1f3ed",
+        "1f469-1f3fe-200d-1f3ed",
+        "1f469-1f3ff-200d-1f3ed"
+      ]
+    },
+    {
+      "n": ["male-office-worker"],
+      "u": "1f468-200d-1f4bc",
+      "v": [
+        "1f468-1f3fb-200d-1f4bc",
+        "1f468-1f3fc-200d-1f4bc",
+        "1f468-1f3fd-200d-1f4bc",
+        "1f468-1f3fe-200d-1f4bc",
+        "1f468-1f3ff-200d-1f4bc"
+      ]
+    },
+    {
+      "n": ["female-office-worker"],
+      "u": "1f469-200d-1f4bc",
+      "v": [
+        "1f469-1f3fb-200d-1f4bc",
+        "1f469-1f3fc-200d-1f4bc",
+        "1f469-1f3fd-200d-1f4bc",
+        "1f469-1f3fe-200d-1f4bc",
+        "1f469-1f3ff-200d-1f4bc"
+      ]
+    },
+    {
+      "n": ["male-scientist"],
+      "u": "1f468-200d-1f52c",
+      "v": [
+        "1f468-1f3fb-200d-1f52c",
+        "1f468-1f3fc-200d-1f52c",
+        "1f468-1f3fd-200d-1f52c",
+        "1f468-1f3fe-200d-1f52c",
+        "1f468-1f3ff-200d-1f52c"
+      ]
+    },
+    {
+      "n": ["female-scientist"],
+      "u": "1f469-200d-1f52c",
+      "v": [
+        "1f469-1f3fb-200d-1f52c",
+        "1f469-1f3fc-200d-1f52c",
+        "1f469-1f3fd-200d-1f52c",
+        "1f469-1f3fe-200d-1f52c",
+        "1f469-1f3ff-200d-1f52c"
+      ]
+    },
+    {
+      "n": ["male-technologist"],
+      "u": "1f468-200d-1f4bb",
+      "v": [
+        "1f468-1f3fb-200d-1f4bb",
+        "1f468-1f3fc-200d-1f4bb",
+        "1f468-1f3fd-200d-1f4bb",
+        "1f468-1f3fe-200d-1f4bb",
+        "1f468-1f3ff-200d-1f4bb"
+      ]
+    },
+    {
+      "n": ["female-technologist"],
+      "u": "1f469-200d-1f4bb",
+      "v": [
+        "1f469-1f3fb-200d-1f4bb",
+        "1f469-1f3fc-200d-1f4bb",
+        "1f469-1f3fd-200d-1f4bb",
+        "1f469-1f3fe-200d-1f4bb",
+        "1f469-1f3ff-200d-1f4bb"
+      ]
+    },
+    {
+      "n": ["male-singer"],
+      "u": "1f468-200d-1f3a4",
+      "v": [
+        "1f468-1f3fb-200d-1f3a4",
+        "1f468-1f3fc-200d-1f3a4",
+        "1f468-1f3fd-200d-1f3a4",
+        "1f468-1f3fe-200d-1f3a4",
+        "1f468-1f3ff-200d-1f3a4"
+      ]
+    },
+    {
+      "n": ["female-singer"],
+      "u": "1f469-200d-1f3a4",
+      "v": [
+        "1f469-1f3fb-200d-1f3a4",
+        "1f469-1f3fc-200d-1f3a4",
+        "1f469-1f3fd-200d-1f3a4",
+        "1f469-1f3fe-200d-1f3a4",
+        "1f469-1f3ff-200d-1f3a4"
+      ]
+    },
+    {
+      "n": ["male-artist"],
+      "u": "1f468-200d-1f3a8",
+      "v": [
+        "1f468-1f3fb-200d-1f3a8",
+        "1f468-1f3fc-200d-1f3a8",
+        "1f468-1f3fd-200d-1f3a8",
+        "1f468-1f3fe-200d-1f3a8",
+        "1f468-1f3ff-200d-1f3a8"
+      ]
+    },
+    {
+      "n": ["female-artist"],
+      "u": "1f469-200d-1f3a8",
+      "v": [
+        "1f469-1f3fb-200d-1f3a8",
+        "1f469-1f3fc-200d-1f3a8",
+        "1f469-1f3fd-200d-1f3a8",
+        "1f469-1f3fe-200d-1f3a8",
+        "1f469-1f3ff-200d-1f3a8"
+      ]
+    },
+    {
+      "n": ["male-pilot"],
+      "u": "1f468-200d-2708-fe0f",
+      "v": [
+        "1f468-1f3fb-200d-2708-fe0f",
+        "1f468-1f3fc-200d-2708-fe0f",
+        "1f468-1f3fd-200d-2708-fe0f",
+        "1f468-1f3fe-200d-2708-fe0f",
+        "1f468-1f3ff-200d-2708-fe0f"
+      ]
+    },
+    {
+      "n": ["female-pilot"],
+      "u": "1f469-200d-2708-fe0f",
+      "v": [
+        "1f469-1f3fb-200d-2708-fe0f",
+        "1f469-1f3fc-200d-2708-fe0f",
+        "1f469-1f3fd-200d-2708-fe0f",
+        "1f469-1f3fe-200d-2708-fe0f",
+        "1f469-1f3ff-200d-2708-fe0f"
+      ]
+    },
+    {
+      "n": ["male-astronaut"],
+      "u": "1f468-200d-1f680",
+      "v": [
+        "1f468-1f3fb-200d-1f680",
+        "1f468-1f3fc-200d-1f680",
+        "1f468-1f3fd-200d-1f680",
+        "1f468-1f3fe-200d-1f680",
+        "1f468-1f3ff-200d-1f680"
+      ]
+    },
+    {
+      "n": ["female-astronaut"],
+      "u": "1f469-200d-1f680",
+      "v": [
+        "1f469-1f3fb-200d-1f680",
+        "1f469-1f3fc-200d-1f680",
+        "1f469-1f3fd-200d-1f680",
+        "1f469-1f3fe-200d-1f680",
+        "1f469-1f3ff-200d-1f680"
+      ]
+    },
+    {
+      "n": ["male-firefighter"],
+      "u": "1f468-200d-1f692",
+      "v": [
+        "1f468-1f3fb-200d-1f692",
+        "1f468-1f3fc-200d-1f692",
+        "1f468-1f3fd-200d-1f692",
+        "1f468-1f3fe-200d-1f692",
+        "1f468-1f3ff-200d-1f692"
+      ]
+    },
+    {
+      "n": ["female-firefighter"],
+      "u": "1f469-200d-1f692",
+      "v": [
+        "1f469-1f3fb-200d-1f692",
+        "1f469-1f3fc-200d-1f692",
+        "1f469-1f3fd-200d-1f692",
+        "1f469-1f3fe-200d-1f692",
+        "1f469-1f3ff-200d-1f692"
+      ]
+    },
+    {
+      "n": ["police officer", "cop"],
+      "u": "1f46e",
+      "v": [
+        "1f46e-1f3fb",
+        "1f46e-1f3fc",
+        "1f46e-1f3fd",
+        "1f46e-1f3fe",
+        "1f46e-1f3ff"
+      ]
+    },
+    {
+      "n": ["male-police-officer"],
+      "u": "1f46e-200d-2642-fe0f",
+      "v": [
+        "1f46e-1f3fb-200d-2642-fe0f",
+        "1f46e-1f3fc-200d-2642-fe0f",
+        "1f46e-1f3fd-200d-2642-fe0f",
+        "1f46e-1f3fe-200d-2642-fe0f",
+        "1f46e-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["female-police-officer"],
+      "u": "1f46e-200d-2640-fe0f",
+      "v": [
+        "1f46e-1f3fb-200d-2640-fe0f",
+        "1f46e-1f3fc-200d-2640-fe0f",
+        "1f46e-1f3fd-200d-2640-fe0f",
+        "1f46e-1f3fe-200d-2640-fe0f",
+        "1f46e-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["sleuth_or_spy"],
+      "u": "1f575-fe0f",
+      "v": [
+        "1f575-1f3fb",
+        "1f575-1f3fc",
+        "1f575-1f3fd",
+        "1f575-1f3fe",
+        "1f575-1f3ff"
+      ]
+    },
+    {
+      "n": ["male-detective"],
+      "u": "1f575-fe0f-200d-2642-fe0f",
+      "v": [
+        "1f575-1f3fb-200d-2642-fe0f",
+        "1f575-1f3fc-200d-2642-fe0f",
+        "1f575-1f3fd-200d-2642-fe0f",
+        "1f575-1f3fe-200d-2642-fe0f",
+        "1f575-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["female-detective"],
+      "u": "1f575-fe0f-200d-2640-fe0f",
+      "v": [
+        "1f575-1f3fb-200d-2640-fe0f",
+        "1f575-1f3fc-200d-2640-fe0f",
+        "1f575-1f3fd-200d-2640-fe0f",
+        "1f575-1f3fe-200d-2640-fe0f",
+        "1f575-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["guardsman"],
+      "u": "1f482",
+      "v": [
+        "1f482-1f3fb",
+        "1f482-1f3fc",
+        "1f482-1f3fd",
+        "1f482-1f3fe",
+        "1f482-1f3ff"
+      ]
+    },
+    {
+      "n": ["male-guard"],
+      "u": "1f482-200d-2642-fe0f",
+      "v": [
+        "1f482-1f3fb-200d-2642-fe0f",
+        "1f482-1f3fc-200d-2642-fe0f",
+        "1f482-1f3fd-200d-2642-fe0f",
+        "1f482-1f3fe-200d-2642-fe0f",
+        "1f482-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["female-guard"],
+      "u": "1f482-200d-2640-fe0f",
+      "v": [
+        "1f482-1f3fb-200d-2640-fe0f",
+        "1f482-1f3fc-200d-2640-fe0f",
+        "1f482-1f3fd-200d-2640-fe0f",
+        "1f482-1f3fe-200d-2640-fe0f",
+        "1f482-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["construction worker", "construction_worker"],
+      "u": "1f477",
+      "v": [
+        "1f477-1f3fb",
+        "1f477-1f3fc",
+        "1f477-1f3fd",
+        "1f477-1f3fe",
+        "1f477-1f3ff"
+      ]
+    },
+    {
+      "n": ["male-construction-worker"],
+      "u": "1f477-200d-2642-fe0f",
+      "v": [
+        "1f477-1f3fb-200d-2642-fe0f",
+        "1f477-1f3fc-200d-2642-fe0f",
+        "1f477-1f3fd-200d-2642-fe0f",
+        "1f477-1f3fe-200d-2642-fe0f",
+        "1f477-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["female-construction-worker"],
+      "u": "1f477-200d-2640-fe0f",
+      "v": [
+        "1f477-1f3fb-200d-2640-fe0f",
+        "1f477-1f3fc-200d-2640-fe0f",
+        "1f477-1f3fd-200d-2640-fe0f",
+        "1f477-1f3fe-200d-2640-fe0f",
+        "1f477-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["prince"],
+      "u": "1f934",
+      "v": [
+        "1f934-1f3fb",
+        "1f934-1f3fc",
+        "1f934-1f3fd",
+        "1f934-1f3fe",
+        "1f934-1f3ff"
+      ]
+    },
+    {
+      "n": ["princess"],
+      "u": "1f478",
+      "v": [
+        "1f478-1f3fb",
+        "1f478-1f3fc",
+        "1f478-1f3fd",
+        "1f478-1f3fe",
+        "1f478-1f3ff"
+      ]
+    },
+    {
+      "n": ["man with turban", "man_with_turban"],
+      "u": "1f473",
+      "v": [
+        "1f473-1f3fb",
+        "1f473-1f3fc",
+        "1f473-1f3fd",
+        "1f473-1f3fe",
+        "1f473-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-wearing-turban"],
+      "u": "1f473-200d-2642-fe0f",
+      "v": [
+        "1f473-1f3fb-200d-2642-fe0f",
+        "1f473-1f3fc-200d-2642-fe0f",
+        "1f473-1f3fd-200d-2642-fe0f",
+        "1f473-1f3fe-200d-2642-fe0f",
+        "1f473-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-wearing-turban"],
+      "u": "1f473-200d-2640-fe0f",
+      "v": [
+        "1f473-1f3fb-200d-2640-fe0f",
+        "1f473-1f3fc-200d-2640-fe0f",
+        "1f473-1f3fd-200d-2640-fe0f",
+        "1f473-1f3fe-200d-2640-fe0f",
+        "1f473-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["man with gua pi mao", "man_with_gua_pi_mao"],
+      "u": "1f472",
+      "v": [
+        "1f472-1f3fb",
+        "1f472-1f3fc",
+        "1f472-1f3fd",
+        "1f472-1f3fe",
+        "1f472-1f3ff"
+      ]
+    },
+    {
+      "n": ["person with headscarf", "person_with_headscarf"],
+      "u": "1f9d5",
+      "v": [
+        "1f9d5-1f3fb",
+        "1f9d5-1f3fc",
+        "1f9d5-1f3fd",
+        "1f9d5-1f3fe",
+        "1f9d5-1f3ff"
+      ]
+    },
+    {
+      "n": ["bearded person", "bearded_person"],
+      "u": "1f9d4",
+      "v": [
+        "1f9d4-1f3fb",
+        "1f9d4-1f3fc",
+        "1f9d4-1f3fd",
+        "1f9d4-1f3fe",
+        "1f9d4-1f3ff"
+      ]
+    },
+    {
+      "n": ["person with blond hair", "person_with_blond_hair"],
+      "u": "1f471",
+      "v": [
+        "1f471-1f3fb",
+        "1f471-1f3fc",
+        "1f471-1f3fd",
+        "1f471-1f3fe",
+        "1f471-1f3ff"
+      ]
+    },
+    {
+      "n": ["blond-haired-man"],
+      "u": "1f471-200d-2642-fe0f",
+      "v": [
+        "1f471-1f3fb-200d-2642-fe0f",
+        "1f471-1f3fc-200d-2642-fe0f",
+        "1f471-1f3fd-200d-2642-fe0f",
+        "1f471-1f3fe-200d-2642-fe0f",
+        "1f471-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["blond-haired-woman"],
+      "u": "1f471-200d-2640-fe0f",
+      "v": [
+        "1f471-1f3fb-200d-2640-fe0f",
+        "1f471-1f3fc-200d-2640-fe0f",
+        "1f471-1f3fd-200d-2640-fe0f",
+        "1f471-1f3fe-200d-2640-fe0f",
+        "1f471-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["man in tuxedo", "man_in_tuxedo"],
+      "u": "1f935",
+      "v": [
+        "1f935-1f3fb",
+        "1f935-1f3fc",
+        "1f935-1f3fd",
+        "1f935-1f3fe",
+        "1f935-1f3ff"
+      ]
+    },
+    {
+      "n": ["bride with veil", "bride_with_veil"],
+      "u": "1f470",
+      "v": [
+        "1f470-1f3fb",
+        "1f470-1f3fc",
+        "1f470-1f3fd",
+        "1f470-1f3fe",
+        "1f470-1f3ff"
+      ]
+    },
+    {
+      "n": ["pregnant woman", "pregnant_woman"],
+      "u": "1f930",
+      "v": [
+        "1f930-1f3fb",
+        "1f930-1f3fc",
+        "1f930-1f3fd",
+        "1f930-1f3fe",
+        "1f930-1f3ff"
+      ]
+    },
+    {
+      "n": ["breast-feeding"],
+      "u": "1f931",
+      "v": [
+        "1f931-1f3fb",
+        "1f931-1f3fc",
+        "1f931-1f3fd",
+        "1f931-1f3fe",
+        "1f931-1f3ff"
+      ]
+    },
+    {
+      "n": ["baby angel", "angel"],
+      "u": "1f47c",
+      "v": [
+        "1f47c-1f3fb",
+        "1f47c-1f3fc",
+        "1f47c-1f3fd",
+        "1f47c-1f3fe",
+        "1f47c-1f3ff"
+      ]
+    },
+    {
+      "n": ["father christmas", "santa"],
+      "u": "1f385",
+      "v": [
+        "1f385-1f3fb",
+        "1f385-1f3fc",
+        "1f385-1f3fd",
+        "1f385-1f3fe",
+        "1f385-1f3ff"
+      ]
+    },
+    {
+      "n": ["mother christmas", "mrs_claus", "mother_christmas"],
+      "u": "1f936",
+      "v": [
+        "1f936-1f3fb",
+        "1f936-1f3fc",
+        "1f936-1f3fd",
+        "1f936-1f3fe",
+        "1f936-1f3ff"
+      ]
+    },
+    {
+      "n": ["mage"],
+      "u": "1f9d9",
+      "v": [
+        "1f9d9-1f3fb",
+        "1f9d9-1f3fc",
+        "1f9d9-1f3fd",
+        "1f9d9-1f3fe",
+        "1f9d9-1f3ff"
+      ]
+    },
+    {
+      "n": ["female_mage"],
+      "u": "1f9d9-200d-2640-fe0f",
+      "v": [
+        "1f9d9-1f3fb-200d-2640-fe0f",
+        "1f9d9-1f3fc-200d-2640-fe0f",
+        "1f9d9-1f3fd-200d-2640-fe0f",
+        "1f9d9-1f3fe-200d-2640-fe0f",
+        "1f9d9-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["male_mage"],
+      "u": "1f9d9-200d-2642-fe0f",
+      "v": [
+        "1f9d9-1f3fb-200d-2642-fe0f",
+        "1f9d9-1f3fc-200d-2642-fe0f",
+        "1f9d9-1f3fd-200d-2642-fe0f",
+        "1f9d9-1f3fe-200d-2642-fe0f",
+        "1f9d9-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["fairy"],
+      "u": "1f9da",
+      "v": [
+        "1f9da-1f3fb",
+        "1f9da-1f3fc",
+        "1f9da-1f3fd",
+        "1f9da-1f3fe",
+        "1f9da-1f3ff"
+      ]
+    },
+    {
+      "n": ["female_fairy"],
+      "u": "1f9da-200d-2640-fe0f",
+      "v": [
+        "1f9da-1f3fb-200d-2640-fe0f",
+        "1f9da-1f3fc-200d-2640-fe0f",
+        "1f9da-1f3fd-200d-2640-fe0f",
+        "1f9da-1f3fe-200d-2640-fe0f",
+        "1f9da-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["male_fairy"],
+      "u": "1f9da-200d-2642-fe0f",
+      "v": [
+        "1f9da-1f3fb-200d-2642-fe0f",
+        "1f9da-1f3fc-200d-2642-fe0f",
+        "1f9da-1f3fd-200d-2642-fe0f",
+        "1f9da-1f3fe-200d-2642-fe0f",
+        "1f9da-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["vampire"],
+      "u": "1f9db",
+      "v": [
+        "1f9db-1f3fb",
+        "1f9db-1f3fc",
+        "1f9db-1f3fd",
+        "1f9db-1f3fe",
+        "1f9db-1f3ff"
+      ]
+    },
+    {
+      "n": ["female_vampire"],
+      "u": "1f9db-200d-2640-fe0f",
+      "v": [
+        "1f9db-1f3fb-200d-2640-fe0f",
+        "1f9db-1f3fc-200d-2640-fe0f",
+        "1f9db-1f3fd-200d-2640-fe0f",
+        "1f9db-1f3fe-200d-2640-fe0f",
+        "1f9db-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["male_vampire"],
+      "u": "1f9db-200d-2642-fe0f",
+      "v": [
+        "1f9db-1f3fb-200d-2642-fe0f",
+        "1f9db-1f3fc-200d-2642-fe0f",
+        "1f9db-1f3fd-200d-2642-fe0f",
+        "1f9db-1f3fe-200d-2642-fe0f",
+        "1f9db-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["merperson"],
+      "u": "1f9dc",
+      "v": [
+        "1f9dc-1f3fb",
+        "1f9dc-1f3fc",
+        "1f9dc-1f3fd",
+        "1f9dc-1f3fe",
+        "1f9dc-1f3ff"
+      ]
+    },
+    {
+      "n": ["mermaid"],
+      "u": "1f9dc-200d-2640-fe0f",
+      "v": [
+        "1f9dc-1f3fb-200d-2640-fe0f",
+        "1f9dc-1f3fc-200d-2640-fe0f",
+        "1f9dc-1f3fd-200d-2640-fe0f",
+        "1f9dc-1f3fe-200d-2640-fe0f",
+        "1f9dc-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["merman"],
+      "u": "1f9dc-200d-2642-fe0f",
+      "v": [
+        "1f9dc-1f3fb-200d-2642-fe0f",
+        "1f9dc-1f3fc-200d-2642-fe0f",
+        "1f9dc-1f3fd-200d-2642-fe0f",
+        "1f9dc-1f3fe-200d-2642-fe0f",
+        "1f9dc-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["elf"],
+      "u": "1f9dd",
+      "v": [
+        "1f9dd-1f3fb",
+        "1f9dd-1f3fc",
+        "1f9dd-1f3fd",
+        "1f9dd-1f3fe",
+        "1f9dd-1f3ff"
+      ]
+    },
+    {
+      "n": ["female_elf"],
+      "u": "1f9dd-200d-2640-fe0f",
+      "v": [
+        "1f9dd-1f3fb-200d-2640-fe0f",
+        "1f9dd-1f3fc-200d-2640-fe0f",
+        "1f9dd-1f3fd-200d-2640-fe0f",
+        "1f9dd-1f3fe-200d-2640-fe0f",
+        "1f9dd-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["male_elf"],
+      "u": "1f9dd-200d-2642-fe0f",
+      "v": [
+        "1f9dd-1f3fb-200d-2642-fe0f",
+        "1f9dd-1f3fc-200d-2642-fe0f",
+        "1f9dd-1f3fd-200d-2642-fe0f",
+        "1f9dd-1f3fe-200d-2642-fe0f",
+        "1f9dd-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["genie"],
+      "u": "1f9de"
+    },
+    {
+      "n": ["female_genie"],
+      "u": "1f9de-200d-2640-fe0f"
+    },
+    {
+      "n": ["male_genie"],
+      "u": "1f9de-200d-2642-fe0f"
+    },
+    {
+      "n": ["zombie"],
+      "u": "1f9df"
+    },
+    {
+      "n": ["female_zombie"],
+      "u": "1f9df-200d-2640-fe0f"
+    },
+    {
+      "n": ["male_zombie"],
+      "u": "1f9df-200d-2642-fe0f"
+    },
+    {
+      "n": ["person frowning", "person_frowning"],
+      "u": "1f64d",
+      "v": [
+        "1f64d-1f3fb",
+        "1f64d-1f3fc",
+        "1f64d-1f3fd",
+        "1f64d-1f3fe",
+        "1f64d-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-frowning"],
+      "u": "1f64d-200d-2642-fe0f",
+      "v": [
+        "1f64d-1f3fb-200d-2642-fe0f",
+        "1f64d-1f3fc-200d-2642-fe0f",
+        "1f64d-1f3fd-200d-2642-fe0f",
+        "1f64d-1f3fe-200d-2642-fe0f",
+        "1f64d-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-frowning"],
+      "u": "1f64d-200d-2640-fe0f",
+      "v": [
+        "1f64d-1f3fb-200d-2640-fe0f",
+        "1f64d-1f3fc-200d-2640-fe0f",
+        "1f64d-1f3fd-200d-2640-fe0f",
+        "1f64d-1f3fe-200d-2640-fe0f",
+        "1f64d-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["person with pouting face", "person_with_pouting_face"],
+      "u": "1f64e",
+      "v": [
+        "1f64e-1f3fb",
+        "1f64e-1f3fc",
+        "1f64e-1f3fd",
+        "1f64e-1f3fe",
+        "1f64e-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-pouting"],
+      "u": "1f64e-200d-2642-fe0f",
+      "v": [
+        "1f64e-1f3fb-200d-2642-fe0f",
+        "1f64e-1f3fc-200d-2642-fe0f",
+        "1f64e-1f3fd-200d-2642-fe0f",
+        "1f64e-1f3fe-200d-2642-fe0f",
+        "1f64e-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-pouting"],
+      "u": "1f64e-200d-2640-fe0f",
+      "v": [
+        "1f64e-1f3fb-200d-2640-fe0f",
+        "1f64e-1f3fc-200d-2640-fe0f",
+        "1f64e-1f3fd-200d-2640-fe0f",
+        "1f64e-1f3fe-200d-2640-fe0f",
+        "1f64e-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["face with no good gesture", "no_good"],
+      "u": "1f645",
+      "v": [
+        "1f645-1f3fb",
+        "1f645-1f3fc",
+        "1f645-1f3fd",
+        "1f645-1f3fe",
+        "1f645-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-gesturing-no"],
+      "u": "1f645-200d-2642-fe0f",
+      "v": [
+        "1f645-1f3fb-200d-2642-fe0f",
+        "1f645-1f3fc-200d-2642-fe0f",
+        "1f645-1f3fd-200d-2642-fe0f",
+        "1f645-1f3fe-200d-2642-fe0f",
+        "1f645-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-gesturing-no"],
+      "u": "1f645-200d-2640-fe0f",
+      "v": [
+        "1f645-1f3fb-200d-2640-fe0f",
+        "1f645-1f3fc-200d-2640-fe0f",
+        "1f645-1f3fd-200d-2640-fe0f",
+        "1f645-1f3fe-200d-2640-fe0f",
+        "1f645-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["face with ok gesture", "ok_woman"],
+      "u": "1f646",
+      "v": [
+        "1f646-1f3fb",
+        "1f646-1f3fc",
+        "1f646-1f3fd",
+        "1f646-1f3fe",
+        "1f646-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-gesturing-ok"],
+      "u": "1f646-200d-2642-fe0f",
+      "v": [
+        "1f646-1f3fb-200d-2642-fe0f",
+        "1f646-1f3fc-200d-2642-fe0f",
+        "1f646-1f3fd-200d-2642-fe0f",
+        "1f646-1f3fe-200d-2642-fe0f",
+        "1f646-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-gesturing-ok"],
+      "u": "1f646-200d-2640-fe0f",
+      "v": [
+        "1f646-1f3fb-200d-2640-fe0f",
+        "1f646-1f3fc-200d-2640-fe0f",
+        "1f646-1f3fd-200d-2640-fe0f",
+        "1f646-1f3fe-200d-2640-fe0f",
+        "1f646-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["information desk person", "information_desk_person"],
+      "u": "1f481",
+      "v": [
+        "1f481-1f3fb",
+        "1f481-1f3fc",
+        "1f481-1f3fd",
+        "1f481-1f3fe",
+        "1f481-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-tipping-hand"],
+      "u": "1f481-200d-2642-fe0f",
+      "v": [
+        "1f481-1f3fb-200d-2642-fe0f",
+        "1f481-1f3fc-200d-2642-fe0f",
+        "1f481-1f3fd-200d-2642-fe0f",
+        "1f481-1f3fe-200d-2642-fe0f",
+        "1f481-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-tipping-hand"],
+      "u": "1f481-200d-2640-fe0f",
+      "v": [
+        "1f481-1f3fb-200d-2640-fe0f",
+        "1f481-1f3fc-200d-2640-fe0f",
+        "1f481-1f3fd-200d-2640-fe0f",
+        "1f481-1f3fe-200d-2640-fe0f",
+        "1f481-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["happy person raising one hand", "raising_hand"],
+      "u": "1f64b",
+      "v": [
+        "1f64b-1f3fb",
+        "1f64b-1f3fc",
+        "1f64b-1f3fd",
+        "1f64b-1f3fe",
+        "1f64b-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-raising-hand"],
+      "u": "1f64b-200d-2642-fe0f",
+      "v": [
+        "1f64b-1f3fb-200d-2642-fe0f",
+        "1f64b-1f3fc-200d-2642-fe0f",
+        "1f64b-1f3fd-200d-2642-fe0f",
+        "1f64b-1f3fe-200d-2642-fe0f",
+        "1f64b-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-raising-hand"],
+      "u": "1f64b-200d-2640-fe0f",
+      "v": [
+        "1f64b-1f3fb-200d-2640-fe0f",
+        "1f64b-1f3fc-200d-2640-fe0f",
+        "1f64b-1f3fd-200d-2640-fe0f",
+        "1f64b-1f3fe-200d-2640-fe0f",
+        "1f64b-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["person bowing deeply", "bow"],
+      "u": "1f647",
+      "v": [
+        "1f647-1f3fb",
+        "1f647-1f3fc",
+        "1f647-1f3fd",
+        "1f647-1f3fe",
+        "1f647-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-bowing"],
+      "u": "1f647-200d-2642-fe0f",
+      "v": [
+        "1f647-1f3fb-200d-2642-fe0f",
+        "1f647-1f3fc-200d-2642-fe0f",
+        "1f647-1f3fd-200d-2642-fe0f",
+        "1f647-1f3fe-200d-2642-fe0f",
+        "1f647-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-bowing"],
+      "u": "1f647-200d-2640-fe0f",
+      "v": [
+        "1f647-1f3fb-200d-2640-fe0f",
+        "1f647-1f3fc-200d-2640-fe0f",
+        "1f647-1f3fd-200d-2640-fe0f",
+        "1f647-1f3fe-200d-2640-fe0f",
+        "1f647-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["face palm", "face_palm"],
+      "u": "1f926",
+      "v": [
+        "1f926-1f3fb",
+        "1f926-1f3fc",
+        "1f926-1f3fd",
+        "1f926-1f3fe",
+        "1f926-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-facepalming"],
+      "u": "1f926-200d-2642-fe0f",
+      "v": [
+        "1f926-1f3fb-200d-2642-fe0f",
+        "1f926-1f3fc-200d-2642-fe0f",
+        "1f926-1f3fd-200d-2642-fe0f",
+        "1f926-1f3fe-200d-2642-fe0f",
+        "1f926-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-facepalming"],
+      "u": "1f926-200d-2640-fe0f",
+      "v": [
+        "1f926-1f3fb-200d-2640-fe0f",
+        "1f926-1f3fc-200d-2640-fe0f",
+        "1f926-1f3fd-200d-2640-fe0f",
+        "1f926-1f3fe-200d-2640-fe0f",
+        "1f926-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["shrug"],
+      "u": "1f937",
+      "v": [
+        "1f937-1f3fb",
+        "1f937-1f3fc",
+        "1f937-1f3fd",
+        "1f937-1f3fe",
+        "1f937-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-shrugging"],
+      "u": "1f937-200d-2642-fe0f",
+      "v": [
+        "1f937-1f3fb-200d-2642-fe0f",
+        "1f937-1f3fc-200d-2642-fe0f",
+        "1f937-1f3fd-200d-2642-fe0f",
+        "1f937-1f3fe-200d-2642-fe0f",
+        "1f937-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-shrugging"],
+      "u": "1f937-200d-2640-fe0f",
+      "v": [
+        "1f937-1f3fb-200d-2640-fe0f",
+        "1f937-1f3fc-200d-2640-fe0f",
+        "1f937-1f3fd-200d-2640-fe0f",
+        "1f937-1f3fe-200d-2640-fe0f",
+        "1f937-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["face massage", "massage"],
+      "u": "1f486",
+      "v": [
+        "1f486-1f3fb",
+        "1f486-1f3fc",
+        "1f486-1f3fd",
+        "1f486-1f3fe",
+        "1f486-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-getting-massage"],
+      "u": "1f486-200d-2642-fe0f",
+      "v": [
+        "1f486-1f3fb-200d-2642-fe0f",
+        "1f486-1f3fc-200d-2642-fe0f",
+        "1f486-1f3fd-200d-2642-fe0f",
+        "1f486-1f3fe-200d-2642-fe0f",
+        "1f486-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-getting-massage"],
+      "u": "1f486-200d-2640-fe0f",
+      "v": [
+        "1f486-1f3fb-200d-2640-fe0f",
+        "1f486-1f3fc-200d-2640-fe0f",
+        "1f486-1f3fd-200d-2640-fe0f",
+        "1f486-1f3fe-200d-2640-fe0f",
+        "1f486-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["haircut"],
+      "u": "1f487",
+      "v": [
+        "1f487-1f3fb",
+        "1f487-1f3fc",
+        "1f487-1f3fd",
+        "1f487-1f3fe",
+        "1f487-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-getting-haircut"],
+      "u": "1f487-200d-2642-fe0f",
+      "v": [
+        "1f487-1f3fb-200d-2642-fe0f",
+        "1f487-1f3fc-200d-2642-fe0f",
+        "1f487-1f3fd-200d-2642-fe0f",
+        "1f487-1f3fe-200d-2642-fe0f",
+        "1f487-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-getting-haircut"],
+      "u": "1f487-200d-2640-fe0f",
+      "v": [
+        "1f487-1f3fb-200d-2640-fe0f",
+        "1f487-1f3fc-200d-2640-fe0f",
+        "1f487-1f3fd-200d-2640-fe0f",
+        "1f487-1f3fe-200d-2640-fe0f",
+        "1f487-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["pedestrian", "walking"],
+      "u": "1f6b6",
+      "v": [
+        "1f6b6-1f3fb",
+        "1f6b6-1f3fc",
+        "1f6b6-1f3fd",
+        "1f6b6-1f3fe",
+        "1f6b6-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-walking"],
+      "u": "1f6b6-200d-2642-fe0f",
+      "v": [
+        "1f6b6-1f3fb-200d-2642-fe0f",
+        "1f6b6-1f3fc-200d-2642-fe0f",
+        "1f6b6-1f3fd-200d-2642-fe0f",
+        "1f6b6-1f3fe-200d-2642-fe0f",
+        "1f6b6-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-walking"],
+      "u": "1f6b6-200d-2640-fe0f",
+      "v": [
+        "1f6b6-1f3fb-200d-2640-fe0f",
+        "1f6b6-1f3fc-200d-2640-fe0f",
+        "1f6b6-1f3fd-200d-2640-fe0f",
+        "1f6b6-1f3fe-200d-2640-fe0f",
+        "1f6b6-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["runner", "running"],
+      "u": "1f3c3",
+      "v": [
+        "1f3c3-1f3fb",
+        "1f3c3-1f3fc",
+        "1f3c3-1f3fd",
+        "1f3c3-1f3fe",
+        "1f3c3-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-running"],
+      "u": "1f3c3-200d-2642-fe0f",
+      "v": [
+        "1f3c3-1f3fb-200d-2642-fe0f",
+        "1f3c3-1f3fc-200d-2642-fe0f",
+        "1f3c3-1f3fd-200d-2642-fe0f",
+        "1f3c3-1f3fe-200d-2642-fe0f",
+        "1f3c3-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-running"],
+      "u": "1f3c3-200d-2640-fe0f",
+      "v": [
+        "1f3c3-1f3fb-200d-2640-fe0f",
+        "1f3c3-1f3fc-200d-2640-fe0f",
+        "1f3c3-1f3fd-200d-2640-fe0f",
+        "1f3c3-1f3fe-200d-2640-fe0f",
+        "1f3c3-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["dancer"],
+      "u": "1f483",
+      "v": [
+        "1f483-1f3fb",
+        "1f483-1f3fc",
+        "1f483-1f3fd",
+        "1f483-1f3fe",
+        "1f483-1f3ff"
+      ]
+    },
+    {
+      "n": ["man dancing", "man_dancing"],
+      "u": "1f57a",
+      "v": [
+        "1f57a-1f3fb",
+        "1f57a-1f3fc",
+        "1f57a-1f3fd",
+        "1f57a-1f3fe",
+        "1f57a-1f3ff"
+      ]
+    },
+    {
+      "n": ["woman with bunny ears", "dancers"],
+      "u": "1f46f"
+    },
+    {
+      "n": ["man-with-bunny-ears-partying"],
+      "u": "1f46f-200d-2642-fe0f"
+    },
+    {
+      "n": ["woman-with-bunny-ears-partying"],
+      "u": "1f46f-200d-2640-fe0f"
+    },
+    {
+      "n": ["person in steamy room", "person_in_steamy_room"],
+      "u": "1f9d6",
+      "v": [
+        "1f9d6-1f3fb",
+        "1f9d6-1f3fc",
+        "1f9d6-1f3fd",
+        "1f9d6-1f3fe",
+        "1f9d6-1f3ff"
+      ]
+    },
+    {
+      "n": ["woman_in_steamy_room"],
+      "u": "1f9d6-200d-2640-fe0f",
+      "v": [
+        "1f9d6-1f3fb-200d-2640-fe0f",
+        "1f9d6-1f3fc-200d-2640-fe0f",
+        "1f9d6-1f3fd-200d-2640-fe0f",
+        "1f9d6-1f3fe-200d-2640-fe0f",
+        "1f9d6-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["man_in_steamy_room"],
+      "u": "1f9d6-200d-2642-fe0f",
+      "v": [
+        "1f9d6-1f3fb-200d-2642-fe0f",
+        "1f9d6-1f3fc-200d-2642-fe0f",
+        "1f9d6-1f3fd-200d-2642-fe0f",
+        "1f9d6-1f3fe-200d-2642-fe0f",
+        "1f9d6-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["person climbing", "person_climbing"],
+      "u": "1f9d7",
+      "v": [
+        "1f9d7-1f3fb",
+        "1f9d7-1f3fc",
+        "1f9d7-1f3fd",
+        "1f9d7-1f3fe",
+        "1f9d7-1f3ff"
+      ]
+    },
+    {
+      "n": ["woman_climbing"],
+      "u": "1f9d7-200d-2640-fe0f",
+      "v": [
+        "1f9d7-1f3fb-200d-2640-fe0f",
+        "1f9d7-1f3fc-200d-2640-fe0f",
+        "1f9d7-1f3fd-200d-2640-fe0f",
+        "1f9d7-1f3fe-200d-2640-fe0f",
+        "1f9d7-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["man_climbing"],
+      "u": "1f9d7-200d-2642-fe0f",
+      "v": [
+        "1f9d7-1f3fb-200d-2642-fe0f",
+        "1f9d7-1f3fc-200d-2642-fe0f",
+        "1f9d7-1f3fd-200d-2642-fe0f",
+        "1f9d7-1f3fe-200d-2642-fe0f",
+        "1f9d7-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["person in lotus position", "person_in_lotus_position"],
+      "u": "1f9d8",
+      "v": [
+        "1f9d8-1f3fb",
+        "1f9d8-1f3fc",
+        "1f9d8-1f3fd",
+        "1f9d8-1f3fe",
+        "1f9d8-1f3ff"
+      ]
+    },
+    {
+      "n": ["woman_in_lotus_position"],
+      "u": "1f9d8-200d-2640-fe0f",
+      "v": [
+        "1f9d8-1f3fb-200d-2640-fe0f",
+        "1f9d8-1f3fc-200d-2640-fe0f",
+        "1f9d8-1f3fd-200d-2640-fe0f",
+        "1f9d8-1f3fe-200d-2640-fe0f",
+        "1f9d8-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["man_in_lotus_position"],
+      "u": "1f9d8-200d-2642-fe0f",
+      "v": [
+        "1f9d8-1f3fb-200d-2642-fe0f",
+        "1f9d8-1f3fc-200d-2642-fe0f",
+        "1f9d8-1f3fd-200d-2642-fe0f",
+        "1f9d8-1f3fe-200d-2642-fe0f",
+        "1f9d8-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["bath"],
+      "u": "1f6c0",
+      "v": [
+        "1f6c0-1f3fb",
+        "1f6c0-1f3fc",
+        "1f6c0-1f3fd",
+        "1f6c0-1f3fe",
+        "1f6c0-1f3ff"
+      ]
+    },
+    {
+      "n": ["sleeping accommodation", "sleeping_accommodation"],
+      "u": "1f6cc",
+      "v": [
+        "1f6cc-1f3fb",
+        "1f6cc-1f3fc",
+        "1f6cc-1f3fd",
+        "1f6cc-1f3fe",
+        "1f6cc-1f3ff"
+      ]
+    },
+    {
+      "n": ["man_in_business_suit_levitating"],
+      "u": "1f574-fe0f",
+      "v": [
+        "1f574-1f3fb",
+        "1f574-1f3fc",
+        "1f574-1f3fd",
+        "1f574-1f3fe",
+        "1f574-1f3ff"
+      ]
+    },
+    {
+      "n": ["speaking_head_in_silhouette"],
+      "u": "1f5e3-fe0f"
+    },
+    {
+      "n": ["bust in silhouette", "bust_in_silhouette"],
+      "u": "1f464"
+    },
+    {
+      "n": ["busts in silhouette", "busts_in_silhouette"],
+      "u": "1f465"
+    },
+    {
+      "n": ["fencer"],
+      "u": "1f93a"
+    },
+    {
+      "n": ["horse racing", "horse_racing"],
+      "u": "1f3c7",
+      "v": [
+        "1f3c7-1f3fb",
+        "1f3c7-1f3fc",
+        "1f3c7-1f3fd",
+        "1f3c7-1f3fe",
+        "1f3c7-1f3ff"
+      ]
+    },
+    {
+      "n": ["skier"],
+      "u": "26f7-fe0f"
+    },
+    {
+      "n": ["snowboarder"],
+      "u": "1f3c2",
+      "v": [
+        "1f3c2-1f3fb",
+        "1f3c2-1f3fc",
+        "1f3c2-1f3fd",
+        "1f3c2-1f3fe",
+        "1f3c2-1f3ff"
+      ]
+    },
+    {
+      "n": ["golfer"],
+      "u": "1f3cc-fe0f",
+      "v": [
+        "1f3cc-1f3fb",
+        "1f3cc-1f3fc",
+        "1f3cc-1f3fd",
+        "1f3cc-1f3fe",
+        "1f3cc-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-golfing"],
+      "u": "1f3cc-fe0f-200d-2642-fe0f",
+      "v": [
+        "1f3cc-1f3fb-200d-2642-fe0f",
+        "1f3cc-1f3fc-200d-2642-fe0f",
+        "1f3cc-1f3fd-200d-2642-fe0f",
+        "1f3cc-1f3fe-200d-2642-fe0f",
+        "1f3cc-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-golfing"],
+      "u": "1f3cc-fe0f-200d-2640-fe0f",
+      "v": [
+        "1f3cc-1f3fb-200d-2640-fe0f",
+        "1f3cc-1f3fc-200d-2640-fe0f",
+        "1f3cc-1f3fd-200d-2640-fe0f",
+        "1f3cc-1f3fe-200d-2640-fe0f",
+        "1f3cc-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["surfer"],
+      "u": "1f3c4",
+      "v": [
+        "1f3c4-1f3fb",
+        "1f3c4-1f3fc",
+        "1f3c4-1f3fd",
+        "1f3c4-1f3fe",
+        "1f3c4-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-surfing"],
+      "u": "1f3c4-200d-2642-fe0f",
+      "v": [
+        "1f3c4-1f3fb-200d-2642-fe0f",
+        "1f3c4-1f3fc-200d-2642-fe0f",
+        "1f3c4-1f3fd-200d-2642-fe0f",
+        "1f3c4-1f3fe-200d-2642-fe0f",
+        "1f3c4-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-surfing"],
+      "u": "1f3c4-200d-2640-fe0f",
+      "v": [
+        "1f3c4-1f3fb-200d-2640-fe0f",
+        "1f3c4-1f3fc-200d-2640-fe0f",
+        "1f3c4-1f3fd-200d-2640-fe0f",
+        "1f3c4-1f3fe-200d-2640-fe0f",
+        "1f3c4-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["rowboat"],
+      "u": "1f6a3",
+      "v": [
+        "1f6a3-1f3fb",
+        "1f6a3-1f3fc",
+        "1f6a3-1f3fd",
+        "1f6a3-1f3fe",
+        "1f6a3-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-rowing-boat"],
+      "u": "1f6a3-200d-2642-fe0f",
+      "v": [
+        "1f6a3-1f3fb-200d-2642-fe0f",
+        "1f6a3-1f3fc-200d-2642-fe0f",
+        "1f6a3-1f3fd-200d-2642-fe0f",
+        "1f6a3-1f3fe-200d-2642-fe0f",
+        "1f6a3-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-rowing-boat"],
+      "u": "1f6a3-200d-2640-fe0f",
+      "v": [
+        "1f6a3-1f3fb-200d-2640-fe0f",
+        "1f6a3-1f3fc-200d-2640-fe0f",
+        "1f6a3-1f3fd-200d-2640-fe0f",
+        "1f6a3-1f3fe-200d-2640-fe0f",
+        "1f6a3-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["swimmer"],
+      "u": "1f3ca",
+      "v": [
+        "1f3ca-1f3fb",
+        "1f3ca-1f3fc",
+        "1f3ca-1f3fd",
+        "1f3ca-1f3fe",
+        "1f3ca-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-swimming"],
+      "u": "1f3ca-200d-2642-fe0f",
+      "v": [
+        "1f3ca-1f3fb-200d-2642-fe0f",
+        "1f3ca-1f3fc-200d-2642-fe0f",
+        "1f3ca-1f3fd-200d-2642-fe0f",
+        "1f3ca-1f3fe-200d-2642-fe0f",
+        "1f3ca-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-swimming"],
+      "u": "1f3ca-200d-2640-fe0f",
+      "v": [
+        "1f3ca-1f3fb-200d-2640-fe0f",
+        "1f3ca-1f3fc-200d-2640-fe0f",
+        "1f3ca-1f3fd-200d-2640-fe0f",
+        "1f3ca-1f3fe-200d-2640-fe0f",
+        "1f3ca-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["person_with_ball"],
+      "u": "26f9-fe0f",
+      "v": [
+        "26f9-1f3fb",
+        "26f9-1f3fc",
+        "26f9-1f3fd",
+        "26f9-1f3fe",
+        "26f9-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-bouncing-ball"],
+      "u": "26f9-fe0f-200d-2642-fe0f",
+      "v": [
+        "26f9-1f3fb-200d-2642-fe0f",
+        "26f9-1f3fc-200d-2642-fe0f",
+        "26f9-1f3fd-200d-2642-fe0f",
+        "26f9-1f3fe-200d-2642-fe0f",
+        "26f9-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-bouncing-ball"],
+      "u": "26f9-fe0f-200d-2640-fe0f",
+      "v": [
+        "26f9-1f3fb-200d-2640-fe0f",
+        "26f9-1f3fc-200d-2640-fe0f",
+        "26f9-1f3fd-200d-2640-fe0f",
+        "26f9-1f3fe-200d-2640-fe0f",
+        "26f9-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["weight_lifter"],
+      "u": "1f3cb-fe0f",
+      "v": [
+        "1f3cb-1f3fb",
+        "1f3cb-1f3fc",
+        "1f3cb-1f3fd",
+        "1f3cb-1f3fe",
+        "1f3cb-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-lifting-weights"],
+      "u": "1f3cb-fe0f-200d-2642-fe0f",
+      "v": [
+        "1f3cb-1f3fb-200d-2642-fe0f",
+        "1f3cb-1f3fc-200d-2642-fe0f",
+        "1f3cb-1f3fd-200d-2642-fe0f",
+        "1f3cb-1f3fe-200d-2642-fe0f",
+        "1f3cb-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-lifting-weights"],
+      "u": "1f3cb-fe0f-200d-2640-fe0f",
+      "v": [
+        "1f3cb-1f3fb-200d-2640-fe0f",
+        "1f3cb-1f3fc-200d-2640-fe0f",
+        "1f3cb-1f3fd-200d-2640-fe0f",
+        "1f3cb-1f3fe-200d-2640-fe0f",
+        "1f3cb-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["bicyclist"],
+      "u": "1f6b4",
+      "v": [
+        "1f6b4-1f3fb",
+        "1f6b4-1f3fc",
+        "1f6b4-1f3fd",
+        "1f6b4-1f3fe",
+        "1f6b4-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-biking"],
+      "u": "1f6b4-200d-2642-fe0f",
+      "v": [
+        "1f6b4-1f3fb-200d-2642-fe0f",
+        "1f6b4-1f3fc-200d-2642-fe0f",
+        "1f6b4-1f3fd-200d-2642-fe0f",
+        "1f6b4-1f3fe-200d-2642-fe0f",
+        "1f6b4-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-biking"],
+      "u": "1f6b4-200d-2640-fe0f",
+      "v": [
+        "1f6b4-1f3fb-200d-2640-fe0f",
+        "1f6b4-1f3fc-200d-2640-fe0f",
+        "1f6b4-1f3fd-200d-2640-fe0f",
+        "1f6b4-1f3fe-200d-2640-fe0f",
+        "1f6b4-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["mountain bicyclist", "mountain_bicyclist"],
+      "u": "1f6b5",
+      "v": [
+        "1f6b5-1f3fb",
+        "1f6b5-1f3fc",
+        "1f6b5-1f3fd",
+        "1f6b5-1f3fe",
+        "1f6b5-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-mountain-biking"],
+      "u": "1f6b5-200d-2642-fe0f",
+      "v": [
+        "1f6b5-1f3fb-200d-2642-fe0f",
+        "1f6b5-1f3fc-200d-2642-fe0f",
+        "1f6b5-1f3fd-200d-2642-fe0f",
+        "1f6b5-1f3fe-200d-2642-fe0f",
+        "1f6b5-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-mountain-biking"],
+      "u": "1f6b5-200d-2640-fe0f",
+      "v": [
+        "1f6b5-1f3fb-200d-2640-fe0f",
+        "1f6b5-1f3fc-200d-2640-fe0f",
+        "1f6b5-1f3fd-200d-2640-fe0f",
+        "1f6b5-1f3fe-200d-2640-fe0f",
+        "1f6b5-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["racing_car"],
+      "u": "1f3ce-fe0f"
+    },
+    {
+      "n": ["racing_motorcycle"],
+      "u": "1f3cd-fe0f"
+    },
+    {
+      "n": ["person doing cartwheel", "person_doing_cartwheel"],
+      "u": "1f938",
+      "v": [
+        "1f938-1f3fb",
+        "1f938-1f3fc",
+        "1f938-1f3fd",
+        "1f938-1f3fe",
+        "1f938-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-cartwheeling"],
+      "u": "1f938-200d-2642-fe0f",
+      "v": [
+        "1f938-1f3fb-200d-2642-fe0f",
+        "1f938-1f3fc-200d-2642-fe0f",
+        "1f938-1f3fd-200d-2642-fe0f",
+        "1f938-1f3fe-200d-2642-fe0f",
+        "1f938-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-cartwheeling"],
+      "u": "1f938-200d-2640-fe0f",
+      "v": [
+        "1f938-1f3fb-200d-2640-fe0f",
+        "1f938-1f3fc-200d-2640-fe0f",
+        "1f938-1f3fd-200d-2640-fe0f",
+        "1f938-1f3fe-200d-2640-fe0f",
+        "1f938-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["wrestlers"],
+      "u": "1f93c"
+    },
+    {
+      "n": ["man-wrestling"],
+      "u": "1f93c-200d-2642-fe0f"
+    },
+    {
+      "n": ["woman-wrestling"],
+      "u": "1f93c-200d-2640-fe0f"
+    },
+    {
+      "n": ["water polo", "water_polo"],
+      "u": "1f93d",
+      "v": [
+        "1f93d-1f3fb",
+        "1f93d-1f3fc",
+        "1f93d-1f3fd",
+        "1f93d-1f3fe",
+        "1f93d-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-playing-water-polo"],
+      "u": "1f93d-200d-2642-fe0f",
+      "v": [
+        "1f93d-1f3fb-200d-2642-fe0f",
+        "1f93d-1f3fc-200d-2642-fe0f",
+        "1f93d-1f3fd-200d-2642-fe0f",
+        "1f93d-1f3fe-200d-2642-fe0f",
+        "1f93d-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-playing-water-polo"],
+      "u": "1f93d-200d-2640-fe0f",
+      "v": [
+        "1f93d-1f3fb-200d-2640-fe0f",
+        "1f93d-1f3fc-200d-2640-fe0f",
+        "1f93d-1f3fd-200d-2640-fe0f",
+        "1f93d-1f3fe-200d-2640-fe0f",
+        "1f93d-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["handball"],
+      "u": "1f93e",
+      "v": [
+        "1f93e-1f3fb",
+        "1f93e-1f3fc",
+        "1f93e-1f3fd",
+        "1f93e-1f3fe",
+        "1f93e-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-playing-handball"],
+      "u": "1f93e-200d-2642-fe0f",
+      "v": [
+        "1f93e-1f3fb-200d-2642-fe0f",
+        "1f93e-1f3fc-200d-2642-fe0f",
+        "1f93e-1f3fd-200d-2642-fe0f",
+        "1f93e-1f3fe-200d-2642-fe0f",
+        "1f93e-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-playing-handball"],
+      "u": "1f93e-200d-2640-fe0f",
+      "v": [
+        "1f93e-1f3fb-200d-2640-fe0f",
+        "1f93e-1f3fc-200d-2640-fe0f",
+        "1f93e-1f3fd-200d-2640-fe0f",
+        "1f93e-1f3fe-200d-2640-fe0f",
+        "1f93e-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": ["juggling"],
+      "u": "1f939",
+      "v": [
+        "1f939-1f3fb",
+        "1f939-1f3fc",
+        "1f939-1f3fd",
+        "1f939-1f3fe",
+        "1f939-1f3ff"
+      ]
+    },
+    {
+      "n": ["man-juggling"],
+      "u": "1f939-200d-2642-fe0f",
+      "v": [
+        "1f939-1f3fb-200d-2642-fe0f",
+        "1f939-1f3fc-200d-2642-fe0f",
+        "1f939-1f3fd-200d-2642-fe0f",
+        "1f939-1f3fe-200d-2642-fe0f",
+        "1f939-1f3ff-200d-2642-fe0f"
+      ]
+    },
+    {
+      "n": ["woman-juggling"],
+      "u": "1f939-200d-2640-fe0f",
+      "v": [
+        "1f939-1f3fb-200d-2640-fe0f",
+        "1f939-1f3fc-200d-2640-fe0f",
+        "1f939-1f3fd-200d-2640-fe0f",
+        "1f939-1f3fe-200d-2640-fe0f",
+        "1f939-1f3ff-200d-2640-fe0f"
+      ]
+    },
+    {
+      "n": [
+        "man and woman holding hands",
+        "couple",
+        "man_and_woman_holding_hands"
+      ],
+      "u": "1f46b"
+    },
+    {
+      "n": ["two men holding hands", "two_men_holding_hands"],
+      "u": "1f46c"
+    },
+    {
+      "n": ["two women holding hands", "two_women_holding_hands"],
+      "u": "1f46d"
+    },
+    {
+      "n": ["kiss", "couplekiss"],
+      "u": "1f48f"
+    },
+    {
+      "n": ["woman-kiss-man"],
+      "u": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468"
+    },
+    {
+      "n": ["man-kiss-man"],
+      "u": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468"
+    },
+    {
+      "n": ["woman-kiss-woman"],
+      "u": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469"
+    },
+    {
+      "n": ["couple with heart", "couple_with_heart"],
+      "u": "1f491"
+    },
+    {
+      "n": ["woman-heart-man"],
+      "u": "1f469-200d-2764-fe0f-200d-1f468"
+    },
+    {
+      "n": ["man-heart-man"],
+      "u": "1f468-200d-2764-fe0f-200d-1f468"
+    },
+    {
+      "n": ["woman-heart-woman"],
+      "u": "1f469-200d-2764-fe0f-200d-1f469"
+    },
+    {
+      "n": ["family", "man-woman-boy"],
+      "u": "1f46a"
+    },
+    {
+      "n": ["man-woman-boy", "family"],
+      "u": "1f468-200d-1f469-200d-1f466"
+    },
+    {
+      "n": ["man-woman-girl"],
+      "u": "1f468-200d-1f469-200d-1f467"
+    },
+    {
+      "n": ["man-woman-girl-boy"],
+      "u": "1f468-200d-1f469-200d-1f467-200d-1f466"
+    },
+    {
+      "n": ["man-woman-boy-boy"],
+      "u": "1f468-200d-1f469-200d-1f466-200d-1f466"
+    },
+    {
+      "n": ["man-woman-girl-girl"],
+      "u": "1f468-200d-1f469-200d-1f467-200d-1f467"
+    },
+    {
+      "n": ["man-man-boy"],
+      "u": "1f468-200d-1f468-200d-1f466"
+    },
+    {
+      "n": ["man-man-girl"],
+      "u": "1f468-200d-1f468-200d-1f467"
+    },
+    {
+      "n": ["man-man-girl-boy"],
+      "u": "1f468-200d-1f468-200d-1f467-200d-1f466"
+    },
+    {
+      "n": ["man-man-boy-boy"],
+      "u": "1f468-200d-1f468-200d-1f466-200d-1f466"
+    },
+    {
+      "n": ["man-man-girl-girl"],
+      "u": "1f468-200d-1f468-200d-1f467-200d-1f467"
+    },
+    {
+      "n": ["woman-woman-boy"],
+      "u": "1f469-200d-1f469-200d-1f466"
+    },
+    {
+      "n": ["woman-woman-girl"],
+      "u": "1f469-200d-1f469-200d-1f467"
+    },
+    {
+      "n": ["woman-woman-girl-boy"],
+      "u": "1f469-200d-1f469-200d-1f467-200d-1f466"
+    },
+    {
+      "n": ["woman-woman-boy-boy"],
+      "u": "1f469-200d-1f469-200d-1f466-200d-1f466"
+    },
+    {
+      "n": ["woman-woman-girl-girl"],
+      "u": "1f469-200d-1f469-200d-1f467-200d-1f467"
+    },
+    {
+      "n": ["man-boy"],
+      "u": "1f468-200d-1f466"
+    },
+    {
+      "n": ["man-boy-boy"],
+      "u": "1f468-200d-1f466-200d-1f466"
+    },
+    {
+      "n": ["man-girl"],
+      "u": "1f468-200d-1f467"
+    },
+    {
+      "n": ["man-girl-boy"],
+      "u": "1f468-200d-1f467-200d-1f466"
+    },
+    {
+      "n": ["man-girl-girl"],
+      "u": "1f468-200d-1f467-200d-1f467"
+    },
+    {
+      "n": ["woman-boy"],
+      "u": "1f469-200d-1f466"
+    },
+    {
+      "n": ["woman-boy-boy"],
+      "u": "1f469-200d-1f466-200d-1f466"
+    },
+    {
+      "n": ["woman-girl"],
+      "u": "1f469-200d-1f467"
+    },
+    {
+      "n": ["woman-girl-boy"],
+      "u": "1f469-200d-1f467-200d-1f466"
+    },
+    {
+      "n": ["woman-girl-girl"],
+      "u": "1f469-200d-1f467-200d-1f467"
+    },
+    {
+      "n": ["selfie"],
+      "u": "1f933",
+      "v": [
+        "1f933-1f3fb",
+        "1f933-1f3fc",
+        "1f933-1f3fd",
+        "1f933-1f3fe",
+        "1f933-1f3ff"
+      ]
+    },
+    {
+      "n": ["flexed biceps", "muscle"],
+      "u": "1f4aa",
+      "v": [
+        "1f4aa-1f3fb",
+        "1f4aa-1f3fc",
+        "1f4aa-1f3fd",
+        "1f4aa-1f3fe",
+        "1f4aa-1f3ff"
+      ]
+    },
+    {
+      "n": ["white left pointing backhand index", "point_left"],
+      "u": "1f448",
+      "v": [
+        "1f448-1f3fb",
+        "1f448-1f3fc",
+        "1f448-1f3fd",
+        "1f448-1f3fe",
+        "1f448-1f3ff"
+      ]
+    },
+    {
+      "n": ["white right pointing backhand index", "point_right"],
+      "u": "1f449",
+      "v": [
+        "1f449-1f3fb",
+        "1f449-1f3fc",
+        "1f449-1f3fd",
+        "1f449-1f3fe",
+        "1f449-1f3ff"
+      ]
+    },
+    {
+      "n": ["white up pointing index", "point_up"],
+      "u": "261d-fe0f",
+      "v": [
+        "261d-1f3fb",
+        "261d-1f3fc",
+        "261d-1f3fd",
+        "261d-1f3fe",
+        "261d-1f3ff"
+      ]
+    },
+    {
+      "n": ["white up pointing backhand index", "point_up_2"],
+      "u": "1f446",
+      "v": [
+        "1f446-1f3fb",
+        "1f446-1f3fc",
+        "1f446-1f3fd",
+        "1f446-1f3fe",
+        "1f446-1f3ff"
+      ]
+    },
+    {
+      "n": [
+        "reversed hand with middle finger extended",
+        "middle_finger",
+        "reversed_hand_with_middle_finger_extended"
+      ],
+      "u": "1f595",
+      "v": [
+        "1f595-1f3fb",
+        "1f595-1f3fc",
+        "1f595-1f3fd",
+        "1f595-1f3fe",
+        "1f595-1f3ff"
+      ]
+    },
+    {
+      "n": ["white down pointing backhand index", "point_down"],
+      "u": "1f447",
+      "v": [
+        "1f447-1f3fb",
+        "1f447-1f3fc",
+        "1f447-1f3fd",
+        "1f447-1f3fe",
+        "1f447-1f3ff"
+      ]
+    },
+    {
+      "n": ["victory hand", "v"],
+      "u": "270c-fe0f",
+      "v": [
+        "270c-1f3fb",
+        "270c-1f3fc",
+        "270c-1f3fd",
+        "270c-1f3fe",
+        "270c-1f3ff"
+      ]
+    },
+    {
+      "n": [
+        "hand with index and middle fingers crossed",
+        "crossed_fingers",
+        "hand_with_index_and_middle_fingers_crossed"
+      ],
+      "u": "1f91e",
+      "v": [
+        "1f91e-1f3fb",
+        "1f91e-1f3fc",
+        "1f91e-1f3fd",
+        "1f91e-1f3fe",
+        "1f91e-1f3ff"
+      ]
+    },
+    {
+      "n": [
+        "raised hand with part between middle and ring fingers",
+        "spock-hand"
+      ],
+      "u": "1f596",
+      "v": [
+        "1f596-1f3fb",
+        "1f596-1f3fc",
+        "1f596-1f3fd",
+        "1f596-1f3fe",
+        "1f596-1f3ff"
+      ]
+    },
+    {
+      "n": ["sign of the horns", "the_horns", "sign_of_the_horns"],
+      "u": "1f918",
+      "v": [
+        "1f918-1f3fb",
+        "1f918-1f3fc",
+        "1f918-1f3fd",
+        "1f918-1f3fe",
+        "1f918-1f3ff"
+      ]
+    },
+    {
+      "n": ["call me hand", "call_me_hand"],
+      "u": "1f919",
+      "v": [
+        "1f919-1f3fb",
+        "1f919-1f3fc",
+        "1f919-1f3fd",
+        "1f919-1f3fe",
+        "1f919-1f3ff"
+      ]
+    },
+    {
+      "n": ["raised_hand_with_fingers_splayed"],
+      "u": "1f590-fe0f",
+      "v": [
+        "1f590-1f3fb",
+        "1f590-1f3fc",
+        "1f590-1f3fd",
+        "1f590-1f3fe",
+        "1f590-1f3ff"
+      ]
+    },
+    {
+      "n": ["raised hand", "hand", "raised_hand"],
+      "u": "270b",
+      "v": [
+        "270b-1f3fb",
+        "270b-1f3fc",
+        "270b-1f3fd",
+        "270b-1f3fe",
+        "270b-1f3ff"
+      ]
+    },
+    {
+      "n": ["ok hand sign", "ok_hand"],
+      "u": "1f44c",
+      "v": [
+        "1f44c-1f3fb",
+        "1f44c-1f3fc",
+        "1f44c-1f3fd",
+        "1f44c-1f3fe",
+        "1f44c-1f3ff"
+      ]
+    },
+    {
+      "n": ["thumbs up sign", "+1", "thumbsup"],
+      "u": "1f44d",
+      "v": [
+        "1f44d-1f3fb",
+        "1f44d-1f3fc",
+        "1f44d-1f3fd",
+        "1f44d-1f3fe",
+        "1f44d-1f3ff"
+      ]
+    },
+    {
+      "n": ["thumbs down sign", "-1", "thumbsdown"],
+      "u": "1f44e",
+      "v": [
+        "1f44e-1f3fb",
+        "1f44e-1f3fc",
+        "1f44e-1f3fd",
+        "1f44e-1f3fe",
+        "1f44e-1f3ff"
+      ]
+    },
+    {
+      "n": ["raised fist", "fist"],
+      "u": "270a",
+      "v": [
+        "270a-1f3fb",
+        "270a-1f3fc",
+        "270a-1f3fd",
+        "270a-1f3fe",
+        "270a-1f3ff"
+      ]
+    },
+    {
+      "n": ["fisted hand sign", "facepunch", "punch"],
+      "u": "1f44a",
+      "v": [
+        "1f44a-1f3fb",
+        "1f44a-1f3fc",
+        "1f44a-1f3fd",
+        "1f44a-1f3fe",
+        "1f44a-1f3ff"
+      ]
+    },
+    {
+      "n": ["left-facing fist", "left-facing_fist"],
+      "u": "1f91b",
+      "v": [
+        "1f91b-1f3fb",
+        "1f91b-1f3fc",
+        "1f91b-1f3fd",
+        "1f91b-1f3fe",
+        "1f91b-1f3ff"
+      ]
+    },
+    {
+      "n": ["right-facing fist", "right-facing_fist"],
+      "u": "1f91c",
+      "v": [
+        "1f91c-1f3fb",
+        "1f91c-1f3fc",
+        "1f91c-1f3fd",
+        "1f91c-1f3fe",
+        "1f91c-1f3ff"
+      ]
+    },
+    {
+      "n": ["raised back of hand", "raised_back_of_hand"],
+      "u": "1f91a",
+      "v": [
+        "1f91a-1f3fb",
+        "1f91a-1f3fc",
+        "1f91a-1f3fd",
+        "1f91a-1f3fe",
+        "1f91a-1f3ff"
+      ]
+    },
+    {
+      "n": ["waving hand sign", "wave"],
+      "u": "1f44b",
+      "v": [
+        "1f44b-1f3fb",
+        "1f44b-1f3fc",
+        "1f44b-1f3fd",
+        "1f44b-1f3fe",
+        "1f44b-1f3ff"
+      ]
+    },
+    {
+      "n": ["i love you hand sign", "i_love_you_hand_sign"],
+      "u": "1f91f",
+      "v": [
+        "1f91f-1f3fb",
+        "1f91f-1f3fc",
+        "1f91f-1f3fd",
+        "1f91f-1f3fe",
+        "1f91f-1f3ff"
+      ]
+    },
+    {
+      "n": ["writing_hand"],
+      "u": "270d-fe0f",
+      "v": [
+        "270d-1f3fb",
+        "270d-1f3fc",
+        "270d-1f3fd",
+        "270d-1f3fe",
+        "270d-1f3ff"
+      ]
+    },
+    {
+      "n": ["clapping hands sign", "clap"],
+      "u": "1f44f",
+      "v": [
+        "1f44f-1f3fb",
+        "1f44f-1f3fc",
+        "1f44f-1f3fd",
+        "1f44f-1f3fe",
+        "1f44f-1f3ff"
+      ]
+    },
+    {
+      "n": ["open hands sign", "open_hands"],
+      "u": "1f450",
+      "v": [
+        "1f450-1f3fb",
+        "1f450-1f3fc",
+        "1f450-1f3fd",
+        "1f450-1f3fe",
+        "1f450-1f3ff"
+      ]
+    },
+    {
+      "n": ["person raising both hands in celebration", "raised_hands"],
+      "u": "1f64c",
+      "v": [
+        "1f64c-1f3fb",
+        "1f64c-1f3fc",
+        "1f64c-1f3fd",
+        "1f64c-1f3fe",
+        "1f64c-1f3ff"
+      ]
+    },
+    {
+      "n": ["palms up together", "palms_up_together"],
+      "u": "1f932",
+      "v": [
+        "1f932-1f3fb",
+        "1f932-1f3fc",
+        "1f932-1f3fd",
+        "1f932-1f3fe",
+        "1f932-1f3ff"
+      ]
+    },
+    {
+      "n": ["person with folded hands", "pray"],
+      "u": "1f64f",
+      "v": [
+        "1f64f-1f3fb",
+        "1f64f-1f3fc",
+        "1f64f-1f3fd",
+        "1f64f-1f3fe",
+        "1f64f-1f3ff"
+      ]
+    },
+    {
+      "n": ["handshake"],
+      "u": "1f91d"
+    },
+    {
+      "n": ["nail polish", "nail_care"],
+      "u": "1f485",
+      "v": [
+        "1f485-1f3fb",
+        "1f485-1f3fc",
+        "1f485-1f3fd",
+        "1f485-1f3fe",
+        "1f485-1f3ff"
+      ]
+    },
+    {
+      "n": ["ear"],
+      "u": "1f442",
+      "v": [
+        "1f442-1f3fb",
+        "1f442-1f3fc",
+        "1f442-1f3fd",
+        "1f442-1f3fe",
+        "1f442-1f3ff"
+      ]
+    },
+    {
+      "n": ["nose"],
+      "u": "1f443",
+      "v": [
+        "1f443-1f3fb",
+        "1f443-1f3fc",
+        "1f443-1f3fd",
+        "1f443-1f3fe",
+        "1f443-1f3ff"
+      ]
+    },
+    {
+      "n": ["footprints"],
+      "u": "1f463"
+    },
+    {
+      "n": ["eyes"],
+      "u": "1f440"
+    },
+    {
+      "n": ["eye"],
+      "u": "1f441-fe0f"
+    },
+    {
+      "n": ["eye-in-speech-bubble"],
+      "u": "1f441-fe0f-200d-1f5e8-fe0f"
+    },
+    {
+      "n": ["brain"],
+      "u": "1f9e0"
+    },
+    {
+      "n": ["tongue"],
+      "u": "1f445"
+    },
+    {
+      "n": ["mouth", "lips"],
+      "u": "1f444"
+    },
+    {
+      "n": ["kiss mark", "kiss"],
+      "u": "1f48b"
+    },
+    {
+      "n": ["heart with arrow", "cupid"],
+      "u": "1f498"
+    },
+    {
+      "n": ["heavy black heart", "heart"],
+      "u": "2764-fe0f"
+    },
+    {
+      "n": ["beating heart", "heartbeat"],
+      "u": "1f493"
+    },
+    {
+      "n": ["broken heart", "broken_heart"],
+      "u": "1f494"
+    },
+    {
+      "n": ["two hearts", "two_hearts"],
+      "u": "1f495"
+    },
+    {
+      "n": ["sparkling heart", "sparkling_heart"],
+      "u": "1f496"
+    },
+    {
+      "n": ["growing heart", "heartpulse"],
+      "u": "1f497"
+    },
+    {
+      "n": ["blue heart", "blue_heart"],
+      "u": "1f499"
+    },
+    {
+      "n": ["green heart", "green_heart"],
+      "u": "1f49a"
+    },
+    {
+      "n": ["yellow heart", "yellow_heart"],
+      "u": "1f49b"
+    },
+    {
+      "n": ["orange heart", "orange_heart"],
+      "u": "1f9e1"
+    },
+    {
+      "n": ["purple heart", "purple_heart"],
+      "u": "1f49c"
+    },
+    {
+      "n": ["black heart", "black_heart"],
+      "u": "1f5a4"
+    },
+    {
+      "n": ["heart with ribbon", "gift_heart"],
+      "u": "1f49d"
+    },
+    {
+      "n": ["revolving hearts", "revolving_hearts"],
+      "u": "1f49e"
+    },
+    {
+      "n": ["heart decoration", "heart_decoration"],
+      "u": "1f49f"
+    },
+    {
+      "n": ["heavy_heart_exclamation_mark_ornament"],
+      "u": "2763-fe0f"
+    },
+    {
+      "n": ["love letter", "love_letter"],
+      "u": "1f48c"
+    },
+    {
+      "n": ["sleeping symbol", "zzz"],
+      "u": "1f4a4"
+    },
+    {
+      "n": ["anger symbol", "anger"],
+      "u": "1f4a2"
+    },
+    {
+      "n": ["bomb"],
+      "u": "1f4a3"
+    },
+    {
+      "n": ["collision symbol", "boom", "collision"],
+      "u": "1f4a5"
+    },
+    {
+      "n": ["splashing sweat symbol", "sweat_drops"],
+      "u": "1f4a6"
+    },
+    {
+      "n": ["dash symbol", "dash"],
+      "u": "1f4a8"
+    },
+    {
+      "n": ["dizzy symbol", "dizzy"],
+      "u": "1f4ab"
+    },
+    {
+      "n": ["speech balloon", "speech_balloon"],
+      "u": "1f4ac"
+    },
+    {
+      "n": ["left_speech_bubble"],
+      "u": "1f5e8-fe0f"
+    },
+    {
+      "n": ["right_anger_bubble"],
+      "u": "1f5ef-fe0f"
+    },
+    {
+      "n": ["thought balloon", "thought_balloon"],
+      "u": "1f4ad"
+    },
+    {
+      "n": ["hole"],
+      "u": "1f573-fe0f"
+    },
+    {
+      "n": ["eyeglasses"],
+      "u": "1f453"
+    },
+    {
+      "n": ["dark_sunglasses"],
+      "u": "1f576-fe0f"
+    },
+    {
+      "n": ["necktie"],
+      "u": "1f454"
+    },
+    {
+      "n": ["t-shirt", "shirt", "tshirt"],
+      "u": "1f455"
+    },
+    {
+      "n": ["jeans"],
+      "u": "1f456"
+    },
+    {
+      "n": ["scarf"],
+      "u": "1f9e3"
+    },
+    {
+      "n": ["gloves"],
+      "u": "1f9e4"
+    },
+    {
+      "n": ["coat"],
+      "u": "1f9e5"
+    },
+    {
+      "n": ["socks"],
+      "u": "1f9e6"
+    },
+    {
+      "n": ["dress"],
+      "u": "1f457"
+    },
+    {
+      "n": ["kimono"],
+      "u": "1f458"
+    },
+    {
+      "n": ["bikini"],
+      "u": "1f459"
+    },
+    {
+      "n": ["womans clothes", "womans_clothes"],
+      "u": "1f45a"
+    },
+    {
+      "n": ["purse"],
+      "u": "1f45b"
+    },
+    {
+      "n": ["handbag"],
+      "u": "1f45c"
+    },
+    {
+      "n": ["pouch"],
+      "u": "1f45d"
+    },
+    {
+      "n": ["shopping_bags"],
+      "u": "1f6cd-fe0f"
+    },
+    {
+      "n": ["school satchel", "school_satchel"],
+      "u": "1f392"
+    },
+    {
+      "n": ["mans shoe", "mans_shoe", "shoe"],
+      "u": "1f45e"
+    },
+    {
+      "n": ["athletic shoe", "athletic_shoe"],
+      "u": "1f45f"
+    },
+    {
+      "n": ["high-heeled shoe", "high_heel"],
+      "u": "1f460"
+    },
+    {
+      "n": ["womans sandal", "sandal"],
+      "u": "1f461"
+    },
+    {
+      "n": ["womans boots", "boot"],
+      "u": "1f462"
+    },
+    {
+      "n": ["crown"],
+      "u": "1f451"
+    },
+    {
+      "n": ["womans hat", "womans_hat"],
+      "u": "1f452"
+    },
+    {
+      "n": ["top hat", "tophat"],
+      "u": "1f3a9"
+    },
+    {
+      "n": ["graduation cap", "mortar_board"],
+      "u": "1f393"
+    },
+    {
+      "n": ["billed cap", "billed_cap"],
+      "u": "1f9e2"
+    },
+    {
+      "n": ["helmet_with_white_cross"],
+      "u": "26d1-fe0f"
+    },
+    {
+      "n": ["prayer beads", "prayer_beads"],
+      "u": "1f4ff"
+    },
+    {
+      "n": ["lipstick"],
+      "u": "1f484"
+    },
+    {
+      "n": ["ring"],
+      "u": "1f48d"
+    },
+    {
+      "n": ["gem stone", "gem"],
+      "u": "1f48e"
+    }
+  ]
+}

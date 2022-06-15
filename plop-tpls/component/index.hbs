@@ -1,0 +1,14 @@
+<template>
+    <div class="{{ properCase name }}">
+        <!-- Your content -->
+    </div>
+</template>
+<script setup lang="ts" {{#if isGlobal}} name="{{ properCase name }}" {{/if}}>
+// const { proxy } = getCurrentInstance()
+import { useI18n } from "vue-i18n";
+const { t } = useI18n();
+</script>
+
+<style lang="scss">
+@import 'index.scss';
+</style>
